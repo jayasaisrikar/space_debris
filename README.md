@@ -86,11 +86,9 @@ The project uses a dataset of space debris, stored in a CSV file named `space_de
 ## Model
 The predictive model used in this project is trained to estimate the time a space object spends in orbit based on various features. It uses scikit-learn's machine learning tools for model development and joblib for saving/loading the trained model.
 
-## License
-This project is licensed under the MIT License.
 
 ## Author
-This project was developed by [Your Name]. 
+This project was developed by Jaya Sai Srikar. 
 
 Feel free to reach out for any questions or contributions!
 
